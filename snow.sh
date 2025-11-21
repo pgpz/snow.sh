@@ -24,5 +24,5 @@ while true; do
         tput cup "${flakes_y[i]}" "${flakes_x[i]}"
         printf "."
     done
-    sleep 0.03
+    sleep 0.035
 done
